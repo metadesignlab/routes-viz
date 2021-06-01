@@ -1,0 +1,31 @@
+{
+  "name": "bd-network",
+  "version": "0.1.2",
+  "description": "Business Descriptions as Force Directed Graph",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build-component": "vue-cli-service build --target lib --name vue-network-d3 src/components/Network.vue",
+    "clean-dist": "rm dist/demo.html",
+    "build-page": "vue-cli-service build --dest page"
+  },
+  "keywords": [
+    "vue",
+    "d3",
+    "d3-force",
+    "network",
+    "force-directed",
+    "graph",
+    "component"
+  ],
+  "dependencies": {
+    "d3": "^5.9.2",
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.9",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.5.21"
+  }
+}

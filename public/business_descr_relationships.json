@@ -1,0 +1,3485 @@
+{ "links": [
+        {
+            "parent-child": true, 
+            "source": "Change of use", 
+            "target": "Approved Use", 
+            "value": 1663
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Feedback/Enquiry not under URA's Purview", 
+            "target": "Others", 
+            "value": 1085
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Non URA matters", 
+            "target": "Non-URA matters", 
+            "value": 827
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Is planning permission required", 
+            "target": "DA Processing", 
+            "value": 773
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Is planning permission required", 
+            "target": "Change of use", 
+            "value": 764
+        }, 
+        {
+            "parent-child": true, 
+            "source": "ePAC", 
+            "target": "URA e-Services and Website", 
+            "value": 717
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "Data", 
+            "value": 623
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Use - Others", 
+            "target": "Enforcement", 
+            "value": 574
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Enforcement", 
+            "target": "Subletting guidelines", 
+            "value": 564
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Gross Floor Area (GFA)", 
+            "target": "DA Processing", 
+            "value": 530
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Data", 
+            "target": "REALIS (Annual Subscription)", 
+            "value": 493
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Subletting of private property", 
+            "target": "Enforcement", 
+            "value": 493
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Home office", 
+            "target": "No objection letter", 
+            "value": 442
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Information on URA online", 
+            "target": "URA e-Services and Website", 
+            "value": 390
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Conference/Training/Facilities for Rent", 
+            "value": 390
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Referred to other Agencies", 
+            "target": "Non-URA matters", 
+            "value": 379
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Approved Use", 
+            "value": 341
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Submission requirements", 
+            "target": "Change of use", 
+            "value": 289
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place Management", 
+            "target": "Events Applications", 
+            "value": 265
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Awnings / Canopy / Roof Eave", 
+            "value": 256
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Submission requirements", 
+            "target": "DA Processing", 
+            "value": 249
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Requisition of Planning Records (DC15)", 
+            "target": "URA e-Services and Website", 
+            "value": 244
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Registration requirement", 
+            "target": "Home office", 
+            "value": 242
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Conservation Management", 
+            "target": "Change of Use", 
+            "value": 239
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Subletting of private property", 
+            "target": "Change of use", 
+            "value": 233
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Conservation Planning", 
+            "target": "Land Use Consultation", 
+            "value": 220
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Use - Short Term Stay", 
+            "target": "Enforcement", 
+            "value": 218
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Policies & Guidelines", 
+            "target": "Conservation Management", 
+            "value": 213
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Balcony Enclosure", 
+            "value": 211
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Electronic Development Application (EDA)", 
+            "target": "URA e-Services and Website", 
+            "value": 182
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Building Management and Maintenance", 
+            "value": 181
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Master Plan Information", 
+            "target": "DA Processing", 
+            "value": 174
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Resource Centre", 
+            "target": "Enquiry on Non URA Resources", 
+            "value": 159
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General enquries", 
+            "target": "General enquiry on Master Plan e.g. exhibition, gazette date, zoning and plot ratio etc.", 
+            "value": 153
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Subscription", 
+            "target": "REALIS (Annual Subscription)", 
+            "value": 144
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Development Charge / Differential Premium", 
+            "value": 136
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Building Height", 
+            "target": "DA Processing", 
+            "value": 136
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "Technical Issue", 
+            "value": 133
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Staff service", 
+            "target": "Accessibility, responsiveness, helpfulness of staff", 
+            "value": 123
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use", 
+            "target": "Accomodation", 
+            "value": 123
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place Management", 
+            "target": "Management and Maintenance of Public Spaces / Amenities", 
+            "value": 121
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Future developments e.g. vacant plots, constructions etc.", 
+            "target": "Housing", 
+            "value": 117
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General Enquiry", 
+            "target": "Singapore City Gallery", 
+            "value": 112
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Photography / Filming Requests", 
+            "target": "Place Management", 
+            "value": 91
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General sale of sites issues", 
+            "target": "Land Sales", 
+            "value": 90
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Licensing", 
+            "target": "Controller of Housing (COH)", 
+            "value": 88
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Enforcement", 
+            "target": "Subletting of private property to foreign workers", 
+            "value": 88
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Resource Centre", 
+            "target": "Purchase of Photo Materials", 
+            "value": 86
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Food & Beverage", 
+            "target": "Change of use", 
+            "value": 86
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Approved Use", 
+            "value": 84
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Planning Application", 
+            "target": "Conservation Management", 
+            "value": 83
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Enquiry on URA Resources", 
+            "target": "Resource Centre", 
+            "value": 83
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "Longer time series", 
+            "value": 81
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Circulars", 
+            "value": 80
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Check record", 
+            "target": "SBNB", 
+            "value": 80
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Roads & traffic issues (other than traffic congestion)", 
+            "target": "Transport", 
+            "value": 78
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Queries on sites launched / made available for sale", 
+            "target": "Land Sales", 
+            "value": 78
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Data", 
+            "target": "REALIS (Daily Subscription)", 
+            "value": 73
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Setback", 
+            "target": "DA Processing", 
+            "value": 73
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Defects", 
+            "target": "Controller of Housing (COH)", 
+            "value": 70
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Community/ Religious Use", 
+            "target": "Change of use", 
+            "value": 67
+        }, 
+        {
+            "parent-child": true, 
+            "source": "REALIS (Annual Subscription)", 
+            "target": "Technical Issue", 
+            "value": 67
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General enquries", 
+            "target": "Enquiry/ interview request by students/ researchers", 
+            "value": 66
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Structure", 
+            "target": "Enforcement", 
+            "value": 60
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Plot size", 
+            "value": 51
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Boundary / Parapet / Retaining Walls", 
+            "value": 50
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Subscription", 
+            "target": "REALIS (Daily Subscription)", 
+            "value": 49
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Amalgamation / Subdivision", 
+            "target": "DA Processing", 
+            "value": 49
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Guided Tours in the Gallery", 
+            "target": "Singapore City Gallery", 
+            "value": 48
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Use - Workers' Domitory", 
+            "target": "Enforcement", 
+            "value": 44
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Housing", 
+            "target": "Intensification", 
+            "value": 44
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Building Status", 
+            "target": "Conservation Management", 
+            "value": 44
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Walking", 
+            "target": "Transport", 
+            "value": 40
+        }, 
+        {
+            "parent-child": true, 
+            "source": "URA-organised Events", 
+            "target": "Place Management", 
+            "value": 39
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "Unit no. / level / no. of storey", 
+            "value": 36
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Information requests", 
+            "target": "Land Sales", 
+            "value": 36
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Status of application", 
+            "target": "Change of use", 
+            "value": 35
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Entertainment", 
+            "target": "Change of use", 
+            "value": 35
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Greenery / Parks", 
+            "target": "Loss of greenery", 
+            "value": 32
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use", 
+            "target": "Shop & Office", 
+            "value": 29
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Architecture & Urban Design Excellence", 
+            "target": "Enquiry", 
+            "value": 29
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Is planning permission required", 
+            "value": 28
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy / Commercial", 
+            "target": "Commerical nodes", 
+            "value": 27
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "More functions", 
+            "value": 27
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Events", 
+            "target": "Conservation Management", 
+            "value": 25
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General enquries", 
+            "target": "Building height controls", 
+            "value": 25
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Controller of Housing (COH)", 
+            "target": "Project Account", 
+            "value": 24
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Is planning permission required", 
+            "target": "SBNB", 
+            "value": 24
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Food & Beverage", 
+            "value": 24
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "General DMP19 enquiries", 
+            "value": 23
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Private Enclosed Space (PES)", 
+            "value": 23
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Exhibits (permanent and temporary)", 
+            "target": "Singapore City Gallery", 
+            "value": 22
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Misleading information", 
+            "target": "Controller of Housing (COH)", 
+            "value": 22
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Status of application", 
+            "target": "DA Processing", 
+            "value": 22
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outreach", 
+            "target": "General Enquiry", 
+            "value": 21
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Project Management (At Construction stage only)", 
+            "target": "Infrastructure, building, environmental improvement & other works undertaken by DSG at construction stage only. (e.g. public safety/accessibility, noise pollution, vibration, tree, house keeping, survey, SI etc.)", 
+            "value": 21
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outdoor Refreshment Areas (ORA)", 
+            "target": "DA Processing", 
+            "value": 21
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Noise & Dust", 
+            "target": "Enforcement", 
+            "value": 20
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Specific sale site", 
+            "target": "Government Land Sales", 
+            "value": 20
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Industrial clusters", 
+            "target": "Economy / Commercial", 
+            "value": 20
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Noise & Dust", 
+            "target": "Environmental Concerns", 
+            "value": 19
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Urban Design", 
+            "target": "Night Lighing", 
+            "value": 19
+        }, 
+        {
+            "parent-child": true, 
+            "source": "REALIS (Annual Subscription)", 
+            "target": "Use of website", 
+            "value": 19
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Attic", 
+            "target": "DA Processing", 
+            "value": 18
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Urban Design", 
+            "target": "Pedestrian Connectivity", 
+            "value": 17
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General enquries", 
+            "target": "City planning", 
+            "value": 17
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outdoor Refreshment Areas (ORA)", 
+            "target": "Change of use", 
+            "value": 16
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Use - Place of Worship", 
+            "target": "Enforcement", 
+            "value": 16
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Submission requirements", 
+            "target": "Change of use (Shophouse)", 
+            "value": 16
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outdoor Refreshment Area (ORA)", 
+            "target": "Conservation Management", 
+            "value": 16
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place of worship", 
+            "target": "Institutions", 
+            "value": 16
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Master Plan", 
+            "target": "Planning Policies, Procedures and Land Use", 
+            "value": 15
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Noise & Dust", 
+            "target": "DA Processing", 
+            "value": 15
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Greenery / Parks", 
+            "target": "Lack of greenery and parks", 
+            "value": 15
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Identity / Conservation", 
+            "target": "Identity nodes", 
+            "value": 15
+        }, 
+        {
+            "parent-child": true, 
+            "source": "REALIS (Daily Subscription)", 
+            "target": "Use of website", 
+            "value": 14
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Noise & Dust", 
+            "target": "Conservation Management", 
+            "value": 14
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Institutions", 
+            "target": "Educational institution ", 
+            "value": 14
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Signage Consultation", 
+            "target": "Free Standing", 
+            "value": 13
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General enquries", 
+            "target": "Development Plan or Timing", 
+            "value": 13
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Accomodation", 
+            "value": 13
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Transport", 
+            "target": "Parking issues e.g. lack of parking lots", 
+            "value": 13
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Status of enquiry", 
+            "target": "DA Processing", 
+            "value": 13
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Other land use zones", 
+            "target": "Reserve site", 
+            "value": 13
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Identity / Conservation", 
+            "target": "Heritage, conservation and preservation of sites and monuments", 
+            "value": 13
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DC Guidelines / Policies", 
+            "target": "DC Policies", 
+            "value": 12
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property Market Issue", 
+            "target": "Property market / Real estate information", 
+            "value": 12
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Workers' dormitory", 
+            "target": "Foreign Worker Issues", 
+            "value": 12
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outdoor Refreshment Areas (ORA) and Outdoor Kiosks", 
+            "target": "Urban Design", 
+            "value": 12
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Cycling", 
+            "target": "Transport", 
+            "value": 12
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Status of enquiry", 
+            "target": "Change of use", 
+            "value": 12
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Open refreshment area (ORA)", 
+            "target": "Enforcement", 
+            "value": 11
+        }, 
+        {
+            "parent-child": true, 
+            "source": "URA e-Services and Website", 
+            "target": "Sale of plans", 
+            "value": 11
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Quantum mix", 
+            "target": "DA Processing", 
+            "value": 11
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Heavy Vehicle Parking", 
+            "target": "Transport", 
+            "value": 11
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Development Coordination", 
+            "target": "Infrastructure Matters", 
+            "value": 11
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Fees & Temporary Development Levy (TDL)", 
+            "target": "Change of use", 
+            "value": 11
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Traffic congestion", 
+            "target": "Conservation Management", 
+            "value": 10
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Housing - Plans of future development", 
+            "value": 10
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Recreation", 
+            "target": "Rail Corridor", 
+            "value": 10
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Online Business Licensing System (OBLS)", 
+            "target": "URA e-Services and Website", 
+            "value": 10
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Subletting of private property", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "Permission to use URA data", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Foreign domestic worker issues e.g. large congregations in public areas", 
+            "target": "Enforcement", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy / Commercial", 
+            "target": "Hotel", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Traffic congestion", 
+            "target": "Enforcement", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Health & medical care", 
+            "target": "Institutions", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Rail issues e.g. MRT, LRT etc.", 
+            "target": "Transport", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Other land use zones", 
+            "target": "Utility", 
+            "value": 9
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Urban Design", 
+            "target": "Public Spaces", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Outdoor Refreshment Areas (ORA)", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Noise & Dust", 
+            "target": "Change of use", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "QSM/SIU Feedback", 
+            "target": "Staff Service", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "REALIS (Daily Subscription)", 
+            "target": "Technical Issue", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Recreation", 
+            "target": "Sports facilities", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Identity / Conservation", 
+            "target": "Community spaces", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Floor to ceiling height", 
+            "target": "DA Processing", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Physical Obstructions", 
+            "target": "Environmental Concerns", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Civic & community institution", 
+            "target": "Institutions", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Land / Sea / Underground Issues", 
+            "target": "Interim Use & Temporary Occupation License (TOL)", 
+            "value": 8
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Signage Consultation", 
+            "target": "Permanent Advertisement", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "Use of website", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "No objection letter", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Windows", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outreach", 
+            "target": "School Education Programme", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Construction Matters", 
+            "target": "Project Management", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Housing", 
+            "target": "Convenient amenities/ lack of amenities", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Illegal parking", 
+            "target": "Transport", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Visit Experience to the Gallery", 
+            "target": "Singapore City Gallery", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Enquiry", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Amenities and facilities - Others", 
+            "value": 7
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Resource Centre", 
+            "target": "Request for Interviews", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Staff service", 
+            "target": "Reliability of replies and information", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Land / Sea / Underground Issues", 
+            "target": "Use of underground space", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Other land use zones", 
+            "target": "Cemetry", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Traffic congestion", 
+            "target": "Transport", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Website hosting for short term stay", 
+            "target": "Enforcement", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Other land use zones", 
+            "target": "Agriculture", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place Management", 
+            "target": "Infrastructure Matters", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Buffer", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Planter boxes", 
+            "value": 6
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Special use", 
+            "target": "Other land use zones", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use", 
+            "target": "Services", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Site coverage", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Walkway", 
+            "target": "DA Processing", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Housing - Others", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Housing - GPR / Intensification", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Land / Sea / Underground Issues", 
+            "target": "Reclamation", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Basement", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Civil Penalty", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "More housing choices", 
+            "target": "Housing", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Shop & Office", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General enquries", 
+            "target": "General enquiry on Concept Plan e.g. exhibition, launch date etc.", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Conservation portal", 
+            "target": "URA e-Services and Website", 
+            "value": 5
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Master Plan", 
+            "target": "Plot Ratio", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Neighbour objection", 
+            "target": "DA Processing", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Visit Experience to the URA Centre", 
+            "target": "Singapore City Gallery", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Recreation - Sports & recreation facilities", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Signage Consultation", 
+            "target": "Banners", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Subletting of private property", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "More frequent updates", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Training and Development", 
+            "target": "Other HR-related matters", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy / Commercial", 
+            "target": "Site search for business", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Building Form", 
+            "target": "Urban Design", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Waterbody", 
+            "target": "Other land use zones", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Events & Talks", 
+            "target": "Architecture & Urban Design Excellence", 
+            "value": 4
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Rental of Gallery Space for Temporary Exhibit", 
+            "target": "Singapore City Gallery", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy / Commercial", 
+            "target": "Unauthorized Outdoor Refreshment Areas (ORA)", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Noise & Dust", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Conservation Management", 
+            "target": "Advice Notes", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Entertainment", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy / Commercial", 
+            "target": "Intensification", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Environmental Improvement", 
+            "target": "Project Management", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outdoor Refreshment Areas (ORA) and Outdoor Kiosks", 
+            "target": "Place Management", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Land Sales", 
+            "target": "Extension of Project Completion Period (PCP)", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Status of feedback", 
+            "target": "Enforcement", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Visitor Programme: Local groups including schools", 
+            "target": "Singapore City Gallery", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Litter", 
+            "target": "Environmental Concerns", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Marketing", 
+            "target": "Place Management", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Public space - Public space", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Legal Requisition", 
+            "target": "Clarification on Legal Requisition replies", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Status of application", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Feedback/Enquiry", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Integrated transport hub and depots", 
+            "target": "Transport", 
+            "value": 3
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Greenery / Parks", 
+            "target": "Streetscape greenery", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Architecture & Urban Design Excellence", 
+            "target": "Publications", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Underground Pedestrian Link", 
+            "target": "Urban Design Plan", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Outreach", 
+            "target": "Volunteer Programme", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Projects", 
+            "target": "Public Amenities", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Economy - Industrial nodes", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Architecture & Urban Design Excellence", 
+            "target": "Award", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place Management", 
+            "target": "Temporary Occupation Licence / Tenancy Matters", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Transport & Mobility - Others", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Other Car Parks Matters", 
+            "target": "Infrastructure Matter", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Traffic", 
+            "target": "Urban Design", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Earthworks", 
+            "target": "DA Processing", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Land / Sea / Underground Issues", 
+            "target": "Use of sea space", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Parks, greenery, biodiversity - Others", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "E-Services", 
+            "target": "Payment", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy / Commercial", 
+            "target": "Pro-business (for plans and policies)", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Transport & Mobility - Road and traffic issues", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Golf course", 
+            "target": "Recreation", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Media Queries / Studies", 
+            "target": "Place Management", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Urban Design Plan", 
+            "target": "Other Urban Design Guidelines", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Architecture & Urban Design Excellence", 
+            "target": "Exhibition", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Feedback/Enquiry not under URA's Purview", 
+            "target": "Architecture & Urban Design Excellence", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Banners", 
+            "target": "Place Management", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Environmental Health", 
+            "target": "Project Management", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Signage Consultation", 
+            "target": "Business/Building Name", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Rejuvenation - Others", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General sale of site", 
+            "target": "Government Land Sales", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Parks, greenery, biodiversity - Biodiversity", 
+            "target": "DMP19", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Agency Projects ", 
+            "target": "Building Management and Maintenance", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Pest", 
+            "target": "Environmental Concerns", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Employment centers and offices", 
+            "target": "Economy / Commercial", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Roof terrace", 
+            "target": "DA Processing", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Image Requests", 
+            "target": "Place Management", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Community/ Religious Use", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Transport & Mobility - Cycling / Walking / Active Mobility", 
+            "target": "DMP19", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Identity/Heritage/Conservation", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Economy - Intensification", 
+            "value": 2
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place Management", 
+            "target": "Surveys", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Award", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Amenities and facilities - Retail and commercial facilities", 
+            "target": "DMP19", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Branding", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place Management", 
+            "target": "Watertaxis", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Parking Schemes/Car Parks", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Estate Upgrading Project", 
+            "target": "Housing", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Planting strip", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "General enquiry on Underground Master Plan e.g. exhibition, launch date etc.", 
+            "target": "Underground Master Plan", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Rooftop Covers or Screening of Roof Top Services", 
+            "target": "Urban Design Plan", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Others", 
+            "target": "Enforcement Matters", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DC Policies", 
+            "target": "Enquiry", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy / Commercial", 
+            "target": "White site", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Parking Offence Matters", 
+            "target": "Parking Systems ", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Airport", 
+            "target": "Transport", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Heavy Vehicle Parking", 
+            "target": "DA Processing", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Port", 
+            "target": "Transport", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Conservation and Monument Issues", 
+            "target": "Conservation Plan", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Property market / Real estate information", 
+            "target": "Temporary Occupation Permit (TOP) date / age of building", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Place Management", 
+            "target": "Vendor Service", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Services", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Change of use (Shophouse)", 
+            "target": "Fees & Temporary Development Levy (TDL)", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Recreation", 
+            "target": "Beach area and foreshore", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Overcrowding", 
+            "target": "Housing", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "URA FAQs quality", 
+            "target": "URA e-Services and Website", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "E-Services", 
+            "target": "Enquiry", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DC Policies", 
+            "target": "Enforcement Actions", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Master Plan", 
+            "target": "Policies", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Other Car Parks Matters", 
+            "target": "Enquiry", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "QSM/SIU Feedback", 
+            "target": "Request for Interviews", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Amenities and facilities - Health and medical care institutions", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DA Processing", 
+            "target": "Subletting of private property to foreign workers", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Master Plan", 
+            "target": "Enquiry", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Economy - Others", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Feedback/Enquiry not under URA's Purview", 
+            "target": "E-Services", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy - Pro-business plans and policies", 
+            "target": "DMP19", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "QSM/SIU Feedback", 
+            "target": "Advice Notes", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Sustainability and Resiliency - Others", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Feedback/Enquiry", 
+            "target": "QSM/SIU Feedback", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Parks, greenery, biodiversity - Parks and PCN / RIR / C2C", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "DMP19", 
+            "target": "Transport & Mobility - HVP", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Economy - Commercial nodes", 
+            "target": "DMP19", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Educational Visit, Tour & Hosting", 
+            "target": "Place Management", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Amenities and facilities - Educational Institutions", 
+            "target": "DMP19", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Survey", 
+            "target": "Survey matters", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Cycling", 
+            "target": "Urban Design", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Branding", 
+            "target": "Careers", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Development Projects", 
+            "target": "Compensation and Benefits", 
+            "value": 1
+        }, 
+        {
+            "parent-child": true, 
+            "source": "Parking Schemes/Car Parks", 
+            "target": "Parking Offence Matters", 
+            "value": 1
+        }
+    ], 
+    "nodes": [
+        {
+            "child": true, 
+            "id": "Skyrise greenery", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Setback", 
+            "occurence": 73
+        }, 
+        {
+            "child": true, 
+            "id": "Construction Matters", 
+            "occurence": 7
+        }, 
+        {
+            "child": true, 
+            "id": "Submission requirements", 
+            "occurence": 554
+        }, 
+        {
+            "child": true, 
+            "id": "Status of feedback", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Amenities and facilities - Educational Institutions", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Rental of Gallery Space for Temporary Exhibit", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Economy - Commercial nodes", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "General sale of site", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "General sale of sites issues", 
+            "occurence": 90
+        }, 
+        {
+            "child": true, 
+            "id": "Special use", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Parks, greenery, biodiversity - Biodiversity", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "Agency Projects ", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "Signage Consultation", 
+            "occurence": 26
+        }, 
+        {
+            "child": true, 
+            "id": "Traffic", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "Master Plan", 
+            "occurence": 21
+        }, 
+        {
+            "child": false, 
+            "id": "General enquries", 
+            "occurence": 279
+        }, 
+        {
+            "child": false, 
+            "id": "Change of use (Shophouse)", 
+            "occurence": 452
+        }, 
+        {
+            "child": true, 
+            "id": "Employment centers and offices", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Property Market Issue", 
+            "occurence": 12
+        }, 
+        {
+            "child": true, 
+            "id": "Registration requirement", 
+            "occurence": 242
+        }, 
+        {
+            "child": true, 
+            "id": "Industrial clusters", 
+            "occurence": 20
+        }, 
+        {
+            "child": true, 
+            "id": "Status of application", 
+            "occurence": 60
+        }, 
+        {
+            "child": true, 
+            "id": "Master Plan Information", 
+            "occurence": 174
+        }, 
+        {
+            "child": true, 
+            "id": "Check record", 
+            "occurence": 80
+        }, 
+        {
+            "child": true, 
+            "id": "Feedback/Enquiry not under URA's Purview", 
+            "occurence": 1088
+        }, 
+        {
+            "child": true, 
+            "id": "Future developments e.g. vacant plots, constructions etc.", 
+            "occurence": 117
+        }, 
+        {
+            "child": true, 
+            "id": "Queries on sites launched / made available for sale", 
+            "occurence": 78
+        }, 
+        {
+            "child": false, 
+            "id": "Others", 
+            "occurence": 1670
+        }, 
+        {
+            "child": true, 
+            "id": "Recreation - Others", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Litter", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Open refreshment area (ORA)", 
+            "occurence": 11
+        }, 
+        {
+            "child": true, 
+            "id": "Building Form", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Transport & Mobility - Cycling / Walking / Active Mobility", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Quantum mix", 
+            "occurence": 11
+        }, 
+        {
+            "child": true, 
+            "id": "Economy - Pro-business plans and policies", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "ePAC", 
+            "occurence": 717
+        }, 
+        {
+            "child": true, 
+            "id": "Use - Workers' Domitory", 
+            "occurence": 44
+        }, 
+        {
+            "child": true, 
+            "id": "Outdoor Refreshment Area (ORA)", 
+            "occurence": 16
+        }, 
+        {
+            "child": true, 
+            "id": "Golf course", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "E-Services", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Waterbody", 
+            "occurence": 4
+        }, 
+        {
+            "child": false, 
+            "id": "Land / Sea / Underground Issues", 
+            "occurence": 21
+        }, 
+        {
+            "child": true, 
+            "id": "Photography / Filming Requests", 
+            "occurence": 91
+        }, 
+        {
+            "child": true, 
+            "id": "Status of enquiry", 
+            "occurence": 25
+        }, 
+        {
+            "child": true, 
+            "id": "Amenities and facilities - Retail and commercial facilities", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Noise & Dust", 
+            "occurence": 79
+        }, 
+        {
+            "child": true, 
+            "id": "City planning", 
+            "occurence": 17
+        }, 
+        {
+            "child": true, 
+            "id": "Defects", 
+            "occurence": 70
+        }, 
+        {
+            "child": true, 
+            "id": "Events & Talks", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Gross Floor Area (GFA)", 
+            "occurence": 530
+        }, 
+        {
+            "child": true, 
+            "id": "Rejuvenation - Remaking our Heartland", 
+            "occurence": 0
+        }, 
+        {
+            "child": false, 
+            "id": "Property market / Real estate information", 
+            "occurence": 933
+        }, 
+        {
+            "child": true, 
+            "id": "Visit Experience to the Gallery", 
+            "occurence": 7
+        }, 
+        {
+            "child": false, 
+            "id": "Scholarships ", 
+            "occurence": 0
+        }, 
+        {
+            "child": false, 
+            "id": "Legal Requisition", 
+            "occurence": 3
+        }, 
+        {
+            "child": false, 
+            "id": "Visit Request", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Foreign Workers", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Building Height", 
+            "occurence": 136
+        }, 
+        {
+            "child": false, 
+            "id": "Economy / Commercial", 
+            "occurence": 71
+        }, 
+        {
+            "child": true, 
+            "id": "Outdoor Refreshment Areas (ORA) and Outdoor Kiosks", 
+            "occurence": 15
+        }, 
+        {
+            "child": false, 
+            "id": "Conservation Planning", 
+            "occurence": 220
+        }, 
+        {
+            "child": true, 
+            "id": "Traffic congestion", 
+            "occurence": 25
+        }, 
+        {
+            "child": true, 
+            "id": "General enquiry on Master Plan e.g. exhibition, gazette date, zoning and plot ratio etc.", 
+            "occurence": 153
+        }, 
+        {
+            "child": true, 
+            "id": "URA-organised Events", 
+            "occurence": 39
+        }, 
+        {
+            "child": false, 
+            "id": "CWP Cases", 
+            "occurence": 0
+        }, 
+        {
+            "child": false, 
+            "id": "DMP19", 
+            "occurence": 84
+        }, 
+        {
+            "child": true, 
+            "id": "Educational Visit, Tour & Hosting", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Building height controls", 
+            "occurence": 25
+        }, 
+        {
+            "child": true, 
+            "id": "Parks, greenery, biodiversity - Others", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Envelope Control Guidelines/ Streetblock Plan", 
+            "occurence": 0
+        }, 
+        {
+            "child": false, 
+            "id": "Other Car Parks Matters", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Data", 
+            "occurence": 1189
+        }, 
+        {
+            "child": true, 
+            "id": "Enquiry/ interview request by students/ researchers", 
+            "occurence": 66
+        }, 
+        {
+            "child": true, 
+            "id": "Environmental Health", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "Greenery / Parks", 
+            "occurence": 49
+        }, 
+        {
+            "child": true, 
+            "id": "Subscription", 
+            "occurence": 193
+        }, 
+        {
+            "child": true, 
+            "id": "Roads & traffic issues (other than traffic congestion)", 
+            "occurence": 78
+        }, 
+        {
+            "child": true, 
+            "id": "Clarification on Legal Requisition replies", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Planning Application", 
+            "occurence": 83
+        }, 
+        {
+            "child": true, 
+            "id": "Is planning permission required", 
+            "occurence": 1589
+        }, 
+        {
+            "child": true, 
+            "id": "Building Status", 
+            "occurence": 44
+        }, 
+        {
+            "child": true, 
+            "id": "Building Management and Maintenance", 
+            "occurence": 183
+        }, 
+        {
+            "child": false, 
+            "id": "Outreach", 
+            "occurence": 30
+        }, 
+        {
+            "child": true, 
+            "id": "Walking", 
+            "occurence": 40
+        }, 
+        {
+            "child": true, 
+            "id": "Licensing", 
+            "occurence": 88
+        }, 
+        {
+            "child": true, 
+            "id": "Floor to ceiling height", 
+            "occurence": 8
+        }, 
+        {
+            "child": true, 
+            "id": "More housing choices", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Attic", 
+            "occurence": 18
+        }, 
+        {
+            "child": false, 
+            "id": "Development Projects", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Place of worship", 
+            "occurence": 16
+        }, 
+        {
+            "child": true, 
+            "id": "Pro-business (for plans and policies)", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Entertainment", 
+            "occurence": 38
+        }, 
+        {
+            "child": true, 
+            "id": "Community/ Religious Use", 
+            "occurence": 69
+        }, 
+        {
+            "child": true, 
+            "id": "Overcrowding", 
+            "occurence": 1
+        }, 
+        {
+            "child": false, 
+            "id": "Recreation", 
+            "occurence": 21
+        }, 
+        {
+            "child": false, 
+            "id": "Other land use zones", 
+            "occurence": 43
+        }, 
+        {
+            "child": true, 
+            "id": "Amalgamation / Subdivision", 
+            "occurence": 49
+        }, 
+        {
+            "child": true, 
+            "id": "Media Queries / Studies", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Physical Obstructions", 
+            "occurence": 8
+        }, 
+        {
+            "child": true, 
+            "id": "Exhibits (permanent and temporary)", 
+            "occurence": 22
+        }, 
+        {
+            "child": false, 
+            "id": "Training attachments", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Requisition of Planning Records (DC15)", 
+            "occurence": 244
+        }, 
+        {
+            "child": true, 
+            "id": "Training and Development", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Foreign domestic worker issues e.g. large congregations in public areas", 
+            "occurence": 9
+        }, 
+        {
+            "child": true, 
+            "id": "Earthworks", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "Identity / Conservation", 
+            "occurence": 36
+        }, 
+        {
+            "child": false, 
+            "id": "Architecture & Urban Design Excellence", 
+            "occurence": 41
+        }, 
+        {
+            "child": true, 
+            "id": "Events", 
+            "occurence": 25
+        }, 
+        {
+            "child": true, 
+            "id": "Community spaces", 
+            "occurence": 8
+        }, 
+        {
+            "child": true, 
+            "id": "Permanent Advertisement", 
+            "occurence": 7
+        }, 
+        {
+            "child": true, 
+            "id": "Underground Pedestrian Link", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "Development Coordination", 
+            "occurence": 11
+        }, 
+        {
+            "child": true, 
+            "id": "Non URA matters", 
+            "occurence": 827
+        }, 
+        {
+            "child": true, 
+            "id": "Walkway", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Rooftop Covers or Screening of Roof Top Services", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "General enquiry on Underground Master Plan e.g. exhibition, launch date etc.", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Use of sea space", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Marketing", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Commerical nodes", 
+            "occurence": 27
+        }, 
+        {
+            "child": true, 
+            "id": "Use of underground space", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Environmental Improvement", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Roof terrace", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Economy - Industrial nodes", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Visit Experience to the URA Centre", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Rejuvenation - Others", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Neighbour objection", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Misleading information", 
+            "occurence": 22
+        }, 
+        {
+            "child": true, 
+            "id": "Workers' dormitory", 
+            "occurence": 12
+        }, 
+        {
+            "child": true, 
+            "id": "Interim Use & Temporary Occupation License (TOL)", 
+            "occurence": 8
+        }, 
+        {
+            "child": true, 
+            "id": "Land Use Consultation", 
+            "occurence": 220
+        }, 
+        {
+            "child": true, 
+            "id": "Policies & Guidelines", 
+            "occurence": 213
+        }, 
+        {
+            "child": false, 
+            "id": "Staff service", 
+            "occurence": 129
+        }, 
+        {
+            "child": true, 
+            "id": "Pest", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Planning Policies, Procedures and Land Use", 
+            "occurence": 15
+        }, 
+        {
+            "child": true, 
+            "id": "Online Business Licensing System (OBLS)", 
+            "occurence": 10
+        }, 
+        {
+            "child": true, 
+            "id": "Cemetry", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Image Requests", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Recreation - Sports & recreation facilities", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Banners", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Outdoor Refreshment Areas (ORA)", 
+            "occurence": 45
+        }, 
+        {
+            "child": true, 
+            "id": "Amenities and facilities - Health and medical care institutions", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Information requests", 
+            "occurence": 36
+        }, 
+        {
+            "child": true, 
+            "id": "Heavy Vehicle Parking", 
+            "occurence": 12
+        }, 
+        {
+            "child": true, 
+            "id": "Economy - Intensification", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Housing - Others", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Port", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Conservation and Monument Issues", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "DC Guidelines / Policies", 
+            "occurence": 12
+        }, 
+        {
+            "child": false, 
+            "id": "DA Processing", 
+            "occurence": 3049
+        }, 
+        {
+            "child": false, 
+            "id": "Survey", 
+            "occurence": 1
+        }, 
+        {
+            "child": false, 
+            "id": "SBNB", 
+            "occurence": 104
+        }, 
+        {
+            "child": false, 
+            "id": "Foreign Worker Issues", 
+            "occurence": 12
+        }, 
+        {
+            "child": true, 
+            "id": "Food & Beverage", 
+            "occurence": 110
+        }, 
+        {
+            "child": true, 
+            "id": "Cycling", 
+            "occurence": 13
+        }, 
+        {
+            "child": true, 
+            "id": "Referred to other Agencies", 
+            "occurence": 379
+        }, 
+        {
+            "child": true, 
+            "id": "Subletting of private property", 
+            "occurence": 739
+        }, 
+        {
+            "child": true, 
+            "id": "Economy - Others", 
+            "occurence": 1
+        }, 
+        {
+            "child": false, 
+            "id": "Controller of Housing (COH)", 
+            "occurence": 204
+        }, 
+        {
+            "child": true, 
+            "id": "Sports facilities", 
+            "occurence": 8
+        }, 
+        {
+            "child": true, 
+            "id": "Permission to use URA data", 
+            "occurence": 9
+        }, 
+        {
+            "child": true, 
+            "id": "Feedback/Enquiry", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Fees & Temporary Development Levy (TDL)", 
+            "occurence": 12
+        }, 
+        {
+            "child": true, 
+            "id": "Integrated transport hub and depots", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Accessibility, responsiveness, helpfulness of staff", 
+            "occurence": 123
+        }, 
+        {
+            "child": true, 
+            "id": "Health & medical care", 
+            "occurence": 9
+        }, 
+        {
+            "child": true, 
+            "id": "Parks, greenery, biodiversity - Loss of greenery and open space", 
+            "occurence": 0
+        }, 
+        {
+            "child": false, 
+            "id": "Project Management", 
+            "occurence": 12
+        }, 
+        {
+            "child": false, 
+            "id": "Project Management (At Construction stage only)", 
+            "occurence": 21
+        }, 
+        {
+            "child": true, 
+            "id": "Lack of greenery and parks", 
+            "occurence": 15
+        }, 
+        {
+            "child": true, 
+            "id": "Amenities and facilities - Others", 
+            "occurence": 7
+        }, 
+        {
+            "child": true, 
+            "id": "Branding", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "REALIS (Daily Subscription)", 
+            "occurence": 144
+        }, 
+        {
+            "child": false, 
+            "id": "Urban Design Plan", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Enquiry on URA Resources", 
+            "occurence": 83
+        }, 
+        {
+            "child": true, 
+            "id": "General DMP19 enquiries", 
+            "occurence": 23
+        }, 
+        {
+            "child": false, 
+            "id": "Change of use", 
+            "occurence": 3376
+        }, 
+        {
+            "child": false, 
+            "id": "DC Policies", 
+            "occurence": 14
+        }, 
+        {
+            "child": true, 
+            "id": "General enquiry on Concept Plan e.g. exhibition, launch date etc.", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Use - Short Term Stay", 
+            "occurence": 218
+        }, 
+        {
+            "child": true, 
+            "id": "Services", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Windows", 
+            "occurence": 7
+        }, 
+        {
+            "child": false, 
+            "id": "Place Management", 
+            "occurence": 540
+        }, 
+        {
+            "child": true, 
+            "id": "Development Charge / Differential Premium", 
+            "occurence": 136
+        }, 
+        {
+            "child": true, 
+            "id": "Plot Ratio", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Information on URA online", 
+            "occurence": 390
+        }, 
+        {
+            "child": true, 
+            "id": "Free Standing", 
+            "occurence": 13
+        }, 
+        {
+            "child": true, 
+            "id": "Rail Corridor", 
+            "occurence": 10
+        }, 
+        {
+            "child": false, 
+            "id": "Home office", 
+            "occurence": 684
+        }, 
+        {
+            "child": true, 
+            "id": "Circulars", 
+            "occurence": 80
+        }, 
+        {
+            "child": true, 
+            "id": "Public space - Public space", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "White site", 
+            "occurence": 1
+        }, 
+        {
+            "child": false, 
+            "id": "Urban Design", 
+            "occurence": 63
+        }, 
+        {
+            "child": true, 
+            "id": "Business/Building Name", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Approved Use", 
+            "occurence": 2088
+        }, 
+        {
+            "child": true, 
+            "id": "Surveys", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Reclamation", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Structure", 
+            "occurence": 60
+        }, 
+        {
+            "child": false, 
+            "id": "QSM/SIU Feedback", 
+            "occurence": 11
+        }, 
+        {
+            "child": false, 
+            "id": "Conservation Plan", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Parking Schemes/Car Parks", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Temporary Occupation Permit (TOP) date / age of building", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Civic & community institution", 
+            "occurence": 8
+        }, 
+        {
+            "child": false, 
+            "id": "Conservation Management", 
+            "occurence": 647
+        }, 
+        {
+            "child": true, 
+            "id": "Reserve site", 
+            "occurence": 13
+        }, 
+        {
+            "child": true, 
+            "id": "Development Plan or Timing", 
+            "occurence": 13
+        }, 
+        {
+            "child": true, 
+            "id": "Planting strip", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Airport", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "School Education Programme", 
+            "occurence": 7
+        }, 
+        {
+            "child": false, 
+            "id": "Resource Centre", 
+            "occurence": 334
+        }, 
+        {
+            "child": true, 
+            "id": "Infrastructure Matter", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Survey matters", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Infrastructure, building, environmental improvement & other works undertaken by DSG at construction stage only. (e.g. public safety/accessibility, noise pollution, vibration, tree, house keeping, survey, SI etc.)", 
+            "occurence": 21
+        }, 
+        {
+            "child": true, 
+            "id": "Watertaxis", 
+            "occurence": 1
+        }, 
+        {
+            "child": false, 
+            "id": "Underground Master Plan", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Transport & Mobility - Parking issues", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Streetscape greenery", 
+            "occurence": 2
+        }, 
+        {
+            "child": false, 
+            "id": "Parking Offence Matters", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Housing - Quality of housing environment", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Change of Use", 
+            "occurence": 239
+        }, 
+        {
+            "child": true, 
+            "id": "Electronic Development Application (EDA)", 
+            "occurence": 182
+        }, 
+        {
+            "child": true, 
+            "id": "Accomodation", 
+            "occurence": 136
+        }, 
+        {
+            "child": true, 
+            "id": "Buffer", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "General Enquiry", 
+            "occurence": 133
+        }, 
+        {
+            "child": true, 
+            "id": "Transport & Mobility - Road and traffic issues", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Second Storey & High Level Pedestrian Links", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Compensation and Benefits", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Planter boxes", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Night Lighing", 
+            "occurence": 19
+        }, 
+        {
+            "child": true, 
+            "id": "Infrastructure Matters", 
+            "occurence": 17
+        }, 
+        {
+            "child": true, 
+            "id": "More frequent updates", 
+            "occurence": 4
+        }, 
+        {
+            "child": false, 
+            "id": "Projects", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Boundary / Parapet / Retaining Walls", 
+            "occurence": 50
+        }, 
+        {
+            "child": true, 
+            "id": "Through Block Pedestrian Links", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Conservation portal", 
+            "occurence": 5
+        }, 
+        {
+            "child": false, 
+            "id": "Land Sales", 
+            "occurence": 207
+        }, 
+        {
+            "child": true, 
+            "id": "URA FAQs quality", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Civil Penalty", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Enforcement Actions", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Site search for business", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Request for Interviews", 
+            "occurence": 7
+        }, 
+        {
+            "child": true, 
+            "id": "Use - Place of Worship", 
+            "occurence": 16
+        }, 
+        {
+            "child": true, 
+            "id": "Identity/Heritage/Conservation", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Pedestrian Connectivity", 
+            "occurence": 17
+        }, 
+        {
+            "child": true, 
+            "id": "Transport & Mobility - Others", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Unit no. / level / no. of storey", 
+            "occurence": 36
+        }, 
+        {
+            "child": true, 
+            "id": "Volunteer Programme", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Hotel", 
+            "occurence": 9
+        }, 
+        {
+            "child": true, 
+            "id": "Rail issues e.g. MRT, LRT etc.", 
+            "occurence": 9
+        }, 
+        {
+            "child": false, 
+            "id": "URA e-Services and Website", 
+            "occurence": 1560
+        }, 
+        {
+            "child": true, 
+            "id": "Estate Upgrading Project", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Management and Maintenance of Public Spaces / Amenities", 
+            "occurence": 121
+        }, 
+        {
+            "child": true, 
+            "id": "Awnings / Canopy / Roof Eave", 
+            "occurence": 256
+        }, 
+        {
+            "child": true, 
+            "id": "Website hosting for short term stay", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Public Spaces", 
+            "occurence": 8
+        }, 
+        {
+            "child": true, 
+            "id": "Purchase of Photo Materials", 
+            "occurence": 86
+        }, 
+        {
+            "child": true, 
+            "id": "Sustainability and Resiliency - Others", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Use - Others", 
+            "occurence": 574
+        }, 
+        {
+            "child": false, 
+            "id": "Enforcement", 
+            "occurence": 2115
+        }, 
+        {
+            "child": true, 
+            "id": "Subletting guidelines", 
+            "occurence": 564
+        }, 
+        {
+            "child": true, 
+            "id": "Private Enclosed Space (PES)", 
+            "occurence": 23
+        }, 
+        {
+            "child": true, 
+            "id": "Subletting of private property to foreign workers", 
+            "occurence": 89
+        }, 
+        {
+            "child": true, 
+            "id": "Shop & Office", 
+            "occurence": 34
+        }, 
+        {
+            "child": true, 
+            "id": "Guided Tours in the Gallery", 
+            "occurence": 48
+        }, 
+        {
+            "child": true, 
+            "id": "Loss of greenery", 
+            "occurence": 32
+        }, 
+        {
+            "child": true, 
+            "id": "Award", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Enquiry", 
+            "occurence": 40
+        }, 
+        {
+            "child": true, 
+            "id": "Illegal parking", 
+            "occurence": 7
+        }, 
+        {
+            "child": true, 
+            "id": "Business / Building Name", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Vendor Service", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "No objection letter", 
+            "occurence": 449
+        }, 
+        {
+            "child": true, 
+            "id": "Events Applications", 
+            "occurence": 265
+        }, 
+        {
+            "child": false, 
+            "id": "Non-URA matters", 
+            "occurence": 1206
+        }, 
+        {
+            "child": true, 
+            "id": "Plot size", 
+            "occurence": 51
+        }, 
+        {
+            "child": true, 
+            "id": "Beach area and foreshore", 
+            "occurence": 1
+        }, 
+        {
+            "child": false, 
+            "id": "Housing", 
+            "occurence": 175
+        }, 
+        {
+            "child": true, 
+            "id": "Unauthorized Outdoor Refreshment Areas (ORA)", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Staff Service", 
+            "occurence": 8
+        }, 
+        {
+            "child": true, 
+            "id": "Exhibition", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Housing - Plans of future development", 
+            "occurence": 10
+        }, 
+        {
+            "child": true, 
+            "id": "Visitor Programme: Local groups including schools", 
+            "occurence": 3
+        }, 
+        {
+            "child": true, 
+            "id": "Parks, greenery, biodiversity - Parks and PCN / RIR / C2C", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Convenient amenities/ lack of amenities", 
+            "occurence": 7
+        }, 
+        {
+            "child": false, 
+            "id": "Institutions", 
+            "occurence": 47
+        }, 
+        {
+            "child": true, 
+            "id": "More functions", 
+            "occurence": 27
+        }, 
+        {
+            "child": true, 
+            "id": "Specific sale site", 
+            "occurence": 20
+        }, 
+        {
+            "child": true, 
+            "id": "Site coverage", 
+            "occurence": 5
+        }, 
+        {
+            "child": false, 
+            "id": "Government Land Sales", 
+            "occurence": 22
+        }, 
+        {
+            "child": true, 
+            "id": "Intensification", 
+            "occurence": 47
+        }, 
+        {
+            "child": true, 
+            "id": "Reliability of replies and information", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Payment", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Advice Notes", 
+            "occurence": 4
+        }, 
+        {
+            "child": false, 
+            "id": "Transport", 
+            "occurence": 181
+        }, 
+        {
+            "child": true, 
+            "id": "Parking Systems ", 
+            "occurence": 1
+        }, 
+        {
+            "child": false, 
+            "id": "REALIS (Annual Subscription)", 
+            "occurence": 723
+        }, 
+        {
+            "child": false, 
+            "id": "Environmental Concerns", 
+            "occurence": 32
+        }, 
+        {
+            "child": true, 
+            "id": "Public Amenities", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Balcony Enclosure", 
+            "occurence": 211
+        }, 
+        {
+            "child": false, 
+            "id": "Other HR-related matters", 
+            "occurence": 4
+        }, 
+        {
+            "child": true, 
+            "id": "Basement", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Extension of Project Completion Period (PCP)", 
+            "occurence": 3
+        }, 
+        {
+            "child": false, 
+            "id": "Singapore City Gallery", 
+            "occurence": 199
+        }, 
+        {
+            "child": true, 
+            "id": "Sale of plans", 
+            "occurence": 11
+        }, 
+        {
+            "child": true, 
+            "id": "Longer time series", 
+            "occurence": 81
+        }, 
+        {
+            "child": true, 
+            "id": "Heritage, conservation and preservation of sites and monuments", 
+            "occurence": 13
+        }, 
+        {
+            "child": true, 
+            "id": "Use of website", 
+            "occurence": 40
+        }, 
+        {
+            "child": true, 
+            "id": "Technical Issue", 
+            "occurence": 208
+        }, 
+        {
+            "child": true, 
+            "id": "Enforcement Matters", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Transport & Mobility - HVP", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Parking issues e.g. lack of parking lots", 
+            "occurence": 13
+        }, 
+        {
+            "child": true, 
+            "id": "Other Urban Design Guidelines", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Enquiry on Non URA Resources", 
+            "occurence": 159
+        }, 
+        {
+            "child": true, 
+            "id": "Housing - GPR / Intensification", 
+            "occurence": 5
+        }, 
+        {
+            "child": true, 
+            "id": "Educational institution ", 
+            "occurence": 14
+        }, 
+        {
+            "child": true, 
+            "id": "View Obstructions", 
+            "occurence": 0
+        }, 
+        {
+            "child": true, 
+            "id": "Identity nodes", 
+            "occurence": 15
+        }, 
+        {
+            "child": false, 
+            "id": "Careers", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Temporary Occupation Licence / Tenancy Matters", 
+            "occurence": 2
+        }, 
+        {
+            "child": true, 
+            "id": "Conference/Training/Facilities for Rent", 
+            "occurence": 390
+        }, 
+        {
+            "child": true, 
+            "id": "Project Account", 
+            "occurence": 24
+        }, 
+        {
+            "child": true, 
+            "id": "Agriculture", 
+            "occurence": 6
+        }, 
+        {
+            "child": true, 
+            "id": "Utility", 
+            "occurence": 9
+        }, 
+        {
+            "child": true, 
+            "id": "Policies", 
+            "occurence": 1
+        }, 
+        {
+            "child": true, 
+            "id": "Publications", 
+            "occurence": 2
+        }
+    ]
+}
